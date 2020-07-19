@@ -207,7 +207,7 @@ MCLBN_DLL_API int mclBn_getETHserialization(void);
 	The constant is 0x204d0ec030004ec0600000002fffffffd times original g2cofacotr
 	@see MapTo::mulByCofactorBLS12
 */
-MCLBN_DLL_API void mclBn_setOriginalG2cofactor(int enable);
+//MCLBN_DLL_API void mclBn_setOriginalG2cofactor(int enable);
 
 /*
 	set map-to-function to mode (defalt:MCL_MAP_TO_MODE_ORIGINAL)
